@@ -1,11 +1,8 @@
+### Olá, Bem vinde ao meu Git!!! 😀
+
 <div>
-   <h3 align="center"> Olá, Bem vinde ao meu Git!!! 😀<h3/>
-       <h3 align="center"> Meu nome é Letícia, mas pode me chamar de Lê. ☺ <h3/>
-         
+  <h3 align="center"> Meu nome é Letícia, mas pode me chamar de Lê. ☺ <h3/>         
 <div/>
-
-
-
 
                                                 
 <div>
