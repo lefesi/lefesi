@@ -1,7 +1,10 @@
-### Olá, Bem vinde ao meu Git!!! 😀
 
 <div>
-  <h3 align="center"> Meu nome é Letícia, mas pode me chamar de Lê. ☺ <h3/>         
+<h2>Olá, Bem vinde ao meu Git!!! 😀<h2/> 
+<div/>
+  
+<div>
+  <h4 align="center"> Meu nome é Letícia, mas pode me chamar de Lê. ☺ <h4/>         
 <div/>
 
                                                 
@@ -27,5 +30,4 @@
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-
- 
+ ![Snake animation](https://github.com/lefesi/lefesi/blob/output/github-contribution-grid-snake.svg)
