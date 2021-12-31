@@ -1,17 +1,23 @@
 
 <div>
-<h2>Olá, Bem vinde ao meu Git!!! 😀<h2/> 
+<h2>Hello, Welcome to my Github!!! 😀<h2/> 
 <div/>
   
 <div>
-  <h4 align="center"> Meu nome é Letícia, mas pode me chamar de Lê. ☺ <h4/>         
+  <h4 align="center"> I am Letícia, but you can call me Lê. ☺ <h4/>         
 <div/>
-
+    
+* ❤ I’m currently learning , JAVA, JavaScript, HTML and CSS.
+*  🇧🇷 Living in Campinas/SP.
+* 😉 Pronouns: she/her.
+* 🥑 I'm vegetarian.
+* 🌎 Love learn and nature
                                                 
 <div>
-   <h3 align="center"> 💻 Desenvolvedora Web Java Junior e Bióloga 🌳 <h3/>
+   <h3 align="center"> 💻 Java Junior Web Developer 🌳<h3/>
          
 <div/>
+     
   
 <div align="center">
   <a href="https://github.com/lefesi"> 
