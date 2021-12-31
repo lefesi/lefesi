@@ -7,17 +7,16 @@
   <h4 align="center"> I am Letícia, but you can call me Lê. ☺ <h4/>         
 <div/>
     
+ <div>
+   <h3 align="center"> 💻 Java Junior Web Developer 🌳<h3/>        
+<div/>
+    
 * ❤ I’m currently learning , JAVA, JavaScript, HTML and CSS.
 *  🇧🇷 Living in Campinas/SP.
 * 😉 Pronouns: she/her.
 * 🥑 I'm vegetarian.
 * 🌎 Love learn and nature
-                                                
-<div>
-   <h3 align="center"> 💻 Java Junior Web Developer 🌳<h3/>
-         
-<div/>
-     
+                                                 
   
 <div align="center">
   <a href="https://github.com/lefesi"> 
